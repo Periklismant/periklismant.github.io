@@ -1,0 +1,111 @@
+#publications p.pub {
+  list-style: none;
+}
+
+#publications p.journal::before {
+	content: "■";
+  color: #c32b72;
+}
+
+#publications p.conference::before {
+	content: "■";
+  color: #196ca3;
+}
+
+#publications p.book::before {
+	content: "■";
+  color: #ef942d;
+}
+
+#publications p.editors::before {
+	content: "■";
+  color: #33c3ba;
+}
+
+#publications a.button {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  padding: 1px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+#publications .PDF {
+  border: 2px solid #FE2E2E;
+}
+
+#publications .PDF:hover {
+  background-color: #FE2E2E;
+}
+
+#publications .SLIDES {
+  border: 2px solid #01DF74;
+}
+
+#publications .SLIDES:hover {
+  background-color: #01DF74;
+}
+
+#publications .BIB {
+  border: 2px solid #FFBF00;
+}
+
+#publications .BIB:hover {
+  background-color: #FFBF00;
+}
+
+.DOI {
+  border: 2px solid #008CBA;
+#publications }
+
+#publications .DOI:hover {
+  background-color: #008CBA;
+}
+
+#publications .VIDEO {
+  border: 2px solid #6A287E;
+}
+
+#publications .VIDEO:hover {
+  background-color: #6A287E;
+}
+
+#publications .LINK {
+  border: 2px solid #145a32;
+}
+
+#publications .LINK:hover {
+  background-color: #145a32 ;
+}
+
+#publications .SEMINAR {
+  border: 2px solid #c6c6c6;
+}
+
+#publications .SEMINAR:hover {
+  background-color: #c6c6c6 ;
+}
+
+#publications .CODE {
+  border: 2px solid #996633;
+}
+
+#publications .CODE:hover {
+  background-color: #996633 ;
+}
+
+#publications .CONTENTS {
+  border: 2px solid #585858;
+}
+
+#publications .CONTENTS:hover {
+  background-color: #585858 ;
+}
+

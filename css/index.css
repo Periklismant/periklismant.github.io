@@ -542,7 +542,7 @@ header .navbar.animate {
     padding: .5rem 1rem;
 }
 
-a.button {
+#experience a.button {
   background-color: white;
   color: red;
   border-radius: 10px;
@@ -556,28 +556,4 @@ a.button {
   transition-duration: 0.4s;
   cursor: pointer;
   border: 2px solid;
-}
-
-.pub {
-  list-style: none;
-}
-
-.journal::before {
-	content: "■";
-  color: #c32b72;
-}
-
-.conference::before {
-	content: "■";
-  color: #196ca3;
-}
-
-.book::before {
-	content: "■";
-  color: #ef942d;
-}
-
-.editors::before {
-	content: "■";
-  color: #33c3ba;
 }
