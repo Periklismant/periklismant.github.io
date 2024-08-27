@@ -1,0 +1,8 @@
+#presentations .container > h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#presentations p.pub {
+  list-style: none;
+}
+

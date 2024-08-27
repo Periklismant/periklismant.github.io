@@ -13,75 +13,83 @@ a.pub_button {
   cursor: pointer;
 }
 
-.pub_button .PDF {
+a.PDF {
   border: 2px solid #FE2E2E;
 }
 
-.pub_button .PDF:hover {
+a.PDF:hover {
   background-color: #FE2E2E;
 }
 
-.pub_button .SLIDES {
+a.SLIDES {
   border: 2px solid #01DF74;
 }
 
-.pub_button .SLIDES:hover {
+a.SLIDES:hover {
   background-color: #01DF74;
 }
 
-.pub_button .BIB {
+.BIB {
   border: 2px solid #FFBF00;
 }
 
-.pub_button .BIB:hover {
+.BIB:hover {
   background-color: #FFBF00;
 }
 
-.pub_button .DOI {
+.DOI {
   border: 2px solid #008CBA;
  }
 
-.pub_button .DOI:hover {
+.DOI:hover {
   background-color: #008CBA;
 }
 
-.pub_button .VIDEO {
+.VIDEO {
   border: 2px solid #6A287E;
 }
 
-.pub_button .VIDEO:hover {
+.VIDEO:hover {
   background-color: #6A287E;
 }
 
-.pub_button .LINK {
+.POSTER {
+  border: 2px solid #6A287E;
+}
+
+.POSTER:hover {
+  background-color: #6A287E;
+}
+
+.LINK {
   border: 2px solid #145a32;
 }
 
-.pub_button .LINK:hover {
+.LINK:hover {
   background-color: #145a32 ;
 }
 
-.pub_button .SEMINAR {
+.SEMINAR {
   border: 2px solid #c6c6c6;
 }
 
-.pub_button .SEMINAR:hover {
+.SEMINAR:hover {
   background-color: #c6c6c6 ;
 }
 
-.pub_button .CODE {
+.CODE {
   border: 2px solid #996633;
 }
 
-.pub_button .CODE:hover {
+.CODE:hover {
   background-color: #996633 ;
 }
 
-.pub_button .CONTENTS {
+.CONTENTS {
   border: 2px solid #585858;
 }
 
-.pub_button .CONTENTS:hover {
+.CONTENTS:hover {
   background-color: #585858 ;
 }
 
