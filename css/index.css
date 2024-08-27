@@ -557,3 +557,19 @@ header .navbar.animate {
   cursor: pointer;
   border: 2px solid;
 }
+
+#education a.button {
+  background-color: white;
+  color: red;
+  border-radius: 10px;
+  padding: 3px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid;
+}
