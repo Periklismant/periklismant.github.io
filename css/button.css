@@ -13,11 +13,11 @@ a.pub_button {
   cursor: pointer;
 }
 
-a.PDF {
+.PDF {
   border: 2px solid #FE2E2E;
 }
 
-a.PDF:hover {
+.PDF:hover {
   background-color: #FE2E2E;
 }
 

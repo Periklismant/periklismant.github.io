@@ -1,8 +1,7 @@
-#presentations .container > h3 {
+#seminars .container > h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#presentations p.pres {
+#seminars p.sem {
   list-style: none;
 }
-

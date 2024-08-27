@@ -1,8 +1,8 @@
-#presentations .container > h3 {
+#scholarships .container > h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#presentations p.pres {
+#scholarships p.sch {
   list-style: none;
 }
 

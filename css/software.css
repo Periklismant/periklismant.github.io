@@ -1,8 +1,8 @@
-#presentations .container > h3 {
+#software .container > h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#presentations p.pres {
+#software p.soft {
   list-style: none;
 }
 

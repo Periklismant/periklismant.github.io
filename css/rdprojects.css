@@ -1,8 +1,7 @@
-#presentations .container > h3 {
+#rdprojects .container > h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#presentations p.pres {
+#rdprojects p.rdp {
   list-style: none;
 }
-

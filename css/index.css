@@ -573,3 +573,23 @@ header .navbar.animate {
   cursor: pointer;
   border: 2px solid;
 }
+
+a.btn {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  padding: 1px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid #008CBA;
+}
+
+a.btn:hover {
+  background-color: #008CBA;
+}
