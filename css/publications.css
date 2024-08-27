@@ -6,3 +6,22 @@
   list-style: none;
 }
 
+p.journal::before {
+	content: "■";
+  color: #c32b72;
+}
+
+p.conference::before {
+	content: "■";
+  color: #196ca3;
+}
+
+p.book::before {
+	content: "■";
+  color: #ef942d;
+}
+
+p.editors::before {
+	content: "■";
+  color: #33c3ba;
+}
