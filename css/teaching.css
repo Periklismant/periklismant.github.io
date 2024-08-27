@@ -1,0 +1,8 @@
+#teaching .container > h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#teaching p.tea {
+  list-style: none;
+}
+
