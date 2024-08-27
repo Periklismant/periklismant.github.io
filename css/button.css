@@ -21,11 +21,11 @@ a.PDF:hover {
   background-color: #FE2E2E;
 }
 
-a.SLIDES {
+.SLIDES {
   border: 2px solid #01DF74;
 }
 
-a.SLIDES:hover {
+.SLIDES:hover {
   background-color: #01DF74;
 }
 
