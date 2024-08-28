@@ -22,11 +22,11 @@ a.pub_button {
 }
 
 .SLIDES {
-  border: 2px solid #01DF74;
+  border: 2px solid #018954;  
 }
 
 .SLIDES:hover {
-  background-color: #01DF74;
+  background-color: #018954;
 }
 
 .BIB {

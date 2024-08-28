@@ -6,3 +6,21 @@
   list-style: none;
 }
 
+#presentations .Invited { 
+  color: #c32b72;
+}
+
+#presentations .Course { 
+  color: #BF8F00;
+}
+
+#presentations .Paper { 
+  color: #196ca3;
+}
+
+#presentations .Doctoral { 
+  color: #9A28BE;
+}
+
+
+
