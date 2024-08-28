@@ -22,11 +22,11 @@ a.pub_button {
 }
 
 .SLIDES {
-  border: 2px solid #017944;  
+  border: 2px solid #000000;  
 }
 
 .SLIDES:hover {
-  background-color: #018954;
+  background-color: #000000;
 }
 
 .BIB {
@@ -61,35 +61,11 @@ a.pub_button {
   background-color: #6A287E;
 }
 
-.LINK {
-  border: 2px solid #145a32;
-}
-
-.LINK:hover {
-  background-color: #145a32 ;
-}
-
-.SEMINAR {
-  border: 2px solid #c6c6c6;
-}
-
-.SEMINAR:hover {
-  background-color: #c6c6c6 ;
-}
-
 .CODE {
   border: 2px solid #996633;
 }
 
 .CODE:hover {
-  background-color: #996633 ;
-}
-
-.CONTENTS {
-  border: 2px solid #585858;
-}
-
-.CONTENTS:hover {
-  background-color: #585858 ;
+  background-color: #996633;
 }
 
