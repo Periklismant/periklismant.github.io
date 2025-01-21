@@ -54,11 +54,11 @@ a.pub_button {
 }
 
 .POSTER {
-  border: 2px solid #6A287E;
+  border: 2px solid #e0218a;
 }
 
 .POSTER:hover {
-  background-color: #6A287E;
+  background-color: #e0218a;
 }
 
 .CODE {
