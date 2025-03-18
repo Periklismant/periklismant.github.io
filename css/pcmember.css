@@ -1,0 +1,7 @@
+#pcmember .container > h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#pcmember p.rdp {
+  list-style: none;
+}
