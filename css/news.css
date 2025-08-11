@@ -1,0 +1,7 @@
+#news .container > h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#news p.rdp {
+  list-style: none;
+}
