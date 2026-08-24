@@ -2,6 +2,10 @@
     color: var(--text-secondary-color) !important;
 }
 
+#pcmember .container > h4 {
+    color: var(--text-secondary-color) !important;
+}
+
 #pcmember p.rdp {
   list-style: none;
 }
